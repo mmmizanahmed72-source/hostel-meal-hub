@@ -49,7 +49,7 @@ interface MealContextType {
 const MealContext = createContext<MealContextType | undefined>(undefined);
 
 const defaultMembers: Member[] = [
-  { id: '1', name: 'রহিম উদ্দিন', isActive: true },
+  { id: '1', name: 'বাধন আহমেদ', isActive: true },
   { id: '2', name: 'করিম হোসেন', isActive: true },
   { id: '3', name: 'জামাল আহমেদ', isActive: true },
   { id: '4', name: 'সাইফুল ইসলাম', isActive: true },
